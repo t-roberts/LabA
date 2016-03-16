@@ -1,6 +1,7 @@
 #Skype for Business Online Web SDK
 
 In this lab you will get hands-on experience developing a website with Skype for Business integration.  The sample website will allow an Office 365 user to perform the following from within their website:
+
 1.  Sign into Skype for Business.
 2.  View own presence and set status.
 3.  View contact list and other user presence.
@@ -9,6 +10,7 @@ In this lab you will get hands-on experience developing a website with Skype for
 6.  Escalate conversation to Audio/Video.
 
 >**Prerequisites:** Before beginning the lab, the following items will be needed:
+>
 >1.  Visual Studio 2013 and above.
 >2.  At least (2) Office 365 user credentials.
 >3.  Each user has the other user added to his or her contacts.
